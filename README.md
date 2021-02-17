@@ -1,5 +1,8 @@
 # nuxt-fundamentals
 
+## This project is alive on:
+https://nuxt-fundamentals-rlbl.herokuapp.com/
+
 ## Build Setup
 
 ```bash
