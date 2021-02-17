@@ -2,6 +2,8 @@
 
 ## This project is alive on:
 https://nuxt-fundamentals-rlbl.herokuapp.com/
+## OR STATIC:
+https://nuxt-fundamentals-rlbl-static.netlify.app/
 
 ## Build Setup
 
